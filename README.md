@@ -13,4 +13,4 @@ Code licensed under an [MIT-style License][license_link].
 [github_link]: https://pages.github.com/
 [website_link]: https://jamesmccabe.github.io
 [resource_link]: https://www.w3schools.com/
-[license_link]: https://github.com/jamesmccabe/jamesmccabe.github.io/blob/main/LICENSE
+[license_link]: https://github.com/jamesmccabe/jamesmccabe.github.io/blob/master/LICENSE
