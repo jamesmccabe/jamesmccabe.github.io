@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+/* Author: James McCabe, License: MIT */
 
 body {
     background-color: #f7fafc;
     color: #222222;
-    font-family: 'Merriweather', Arial, Helvetica, sans-serif;
+    font-family: "Merriweather", sans-serif;
     line-height: 1.5;
 }
 
